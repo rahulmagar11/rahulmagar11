@@ -101,7 +101,7 @@ Focused on **reliability, security, observability, and cost optimization** acros
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" />
-</p>
+
 
 <p align="center">
 <a href="https://linkedin.com/in/rahulmagar11"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -116,5 +116,5 @@ Focused on **reliability, security, observability, and cost optimization** acros
 <p align="right">
   <img src="https://raw.githubusercontent.com/amrsa1/amrsa1/master/assets/gears.gif" width="80px" />
 </p>
-
+</p>
 ⭐️ *Thanks for visiting — feel free to connect or explore my repositories!*
