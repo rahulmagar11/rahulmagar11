@@ -112,4 +112,4 @@ Focused on **reliability, security, observability, and cost optimization** acros
 <p align="right">
   <img src="https://raw.githubusercontent.com/amrsa1/amrsa1/master/assets/gears.gif" width="80px" />
 </p>
-###⭐️ *Thanks for visiting — feel free to connect or explore my repositories!*
+### ⭐️ Thanks for visiting — feel free to connect or explore my repositories!
