@@ -13,7 +13,6 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rahulmagar11.rahulmagar11" />
 </p>
----
 
 ### 👨‍💻 Professional Summary
 I transform complex business requirements into **resilient, automated, and scalable cloud infrastructure**.  
