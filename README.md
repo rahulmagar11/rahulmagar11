@@ -1,10 +1,12 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Rahul Magar</h1>
 <h3 align="center">DevOps Engineer & SAS Platform Admin</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rahulmagar11" target="_blank">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rahulmagar11.rahulmagar11" alt="visitor badge"/>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/rahulmagar11">
     <img src="https://img.shields.io/badge/LinkedIn-Rahul%20Magar-blue?style=flat-square&logo=linkedin">
   </a>
   <a href="mailto:rahulmagar11@gmail.com">
@@ -20,53 +22,69 @@
 ## 🚀 About Me
 
 I transform complex business requirements into **resilient, automated, and scalable cloud infrastructure**.  
-My focus is on driving **efficiency, reliability, and security** across the SDLC using **modern DevOps practices and SAS platform engineering**.
+Focused on driving **efficiency, reliability, security, and observability** across the SDLC using modern **DevOps and SAS platform engineering** practices.
 
 - 💼 DevOps Engineer & SAS Platform Engineer with **9+ years of experience**
-- ☁️ Cloud Engineering on **AWS & Azure**
-- ⚙️ Strong advocate of **Infrastructure as Code (IaC)** and automation
-- 📊 Administrator of **SAS Grid & SAS Viya** platforms
-- 🔍 Passionate about observability, cost optimization, and reliability engineering
+- ☁️ Cloud Engineering: **AWS & Azure**
+- ⚙️ Infrastructure as Code (Terraform, Ansible)
+- 📊 SAS Grid & SAS Viya Administration
+- 🔍 Reliability, automation & cost optimization enthusiast
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Tools
 
-### ☁️ Cloud & Infrastructure
-- AWS: **EKS, EC2, S3, Lambda, VPC**
-- Azure: **AKS, Azure DevOps**
-- Multi-Region & Highly Available Architectures
-- Cost Optimization & Security Best Practices
+### ☁️ Cloud & Platforms
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+</p>
 
 ### ⚓ Containers & Orchestration
-- Kubernetes (**EKS / AKS**)
-- Helm Charts
-- GitOps with **Argo CD**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/helm/icon/helm-icon-color.svg" width="40"/>
+</p>
 
-### 🧱 Infrastructure as Code & Configuration
-- **Terraform**
-- **Ansible**
-- Modular & reusable IaC patterns
+### 🧱 Infrastructure as Code & Automation
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40"/>
+</p>
 
-### 🔁 CI/CD & Automation
-- **Jenkins**
-- **Azure DevOps Pipelines**
-- **GitHub Actions**
-- Integrated **security scanning** in CI/CD pipelines
-
-### 📊 SAS Platform Engineering
-- SAS Grid Administration
-- SAS Viya Platform Management
-- High Availability & Performance Tuning
+### 🔁 CI/CD & DevOps
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</p>
 
 ---
 
-## 📚 Currently Exploring
+## 🎓 Certifications
 
-- Advanced Kubernetes patterns (scaling, security, networking)
-- Cloud-native observability stacks
-- Platform reliability & resilience engineering
-- Optimization of SAS workloads on cloud infrastructure
+<p align="center">
+  <img src="https://images.credly.com/images/684d0b96-4a8a-4f34-9c8b-5b7b07d02e1a/aws-certified-solutions-architect-associate.png" width="120" alt="AWS Certified Solutions Architect"/>
+  <img src="https://images.credly.com/images/8d5b9c4c-3f52-4f68-bb53-00baf20c1a70/certified-kubernetes-administrator.png" width="120" alt="Certified Kubernetes Administrator"/>
+  <img src="https://www.sas.com/content/dam/SAS/logos/saslogo.svg" width="120" alt="SAS Certification"/>
+</p>
+
+**Certifications & Expertise**
+- 🏅 AWS Certified Solutions Architect – Associate *(aligned / achieved / in progress)*
+- 🏅 Certified Kubernetes Administrator (CKA) *(hands-on enterprise experience)*
+- 🏅 SAS Platform Administration (Grid & Viya)
+
+---
+
+## 💼 Career Highlights
+
+- Designed and managed **multi-region AWS infrastructure** for enterprise workloads
+- Implemented **GitOps with Argo CD**, improving deployment stability
+- Built **secure CI/CD pipelines** with automated scanning
+- Administered **high-availability SAS Grid & Viya platforms**
+- Delivered **cost-optimized cloud solutions** without compromising reliability
 
 ---
 
@@ -75,27 +93,30 @@ My focus is on driving **efficiency, reliability, and security** across the SDLC
 ### 🌍 Multi-Region AWS Infrastructure
 🔗 https://github.com/rahulmagar11  
 
-**Highlights**
-- Terraform-based multi-region AWS architecture  
-- Highly available and fault-tolerant design  
-- Cost-optimized networking and compute  
-- Designed for enterprise-grade workloads  
+- Terraform-based multi-region AWS architecture
+- High availability & fault tolerance
+- Cost-optimized and secure by design
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulmagar11&show_icons=true&theme=tokyonight" alt="Rahul Magar GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulmagar11&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmagar11&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmagar11&layout=compact&theme=tokyonight" />
+</p>
+
+### 📊 Contribution Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulmagar11&theme=tokyo-night" />
 </p>
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/rahulmagar11  
 - 📧 Email: rahulmagar11@gmail.com  
@@ -103,4 +124,4 @@ My focus is on driving **efficiency, reliability, and security** across the SDLC
 
 ---
 
-⭐️ *If you like my work, consider starring my repositories and connecting with me!*
+⭐️ *Thanks for visiting! Feel free to star repositories or connect.*
