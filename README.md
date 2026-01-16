@@ -100,10 +100,6 @@ Focused on **reliability, security, observability, and cost optimization** acros
 ## 🤝 Connect With Me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" />
-
-
-<p align="center">
 <a href="https://linkedin.com/in/rahulmagar11"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:rahulmagar11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://rahulmagar.co.in"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
@@ -116,5 +112,4 @@ Focused on **reliability, security, observability, and cost optimization** acros
 <p align="right">
   <img src="https://raw.githubusercontent.com/amrsa1/amrsa1/master/assets/gears.gif" width="80px" />
 </p>
-</p>
-⭐️ *Thanks for visiting — feel free to connect or explore my repositories!*
+###⭐️ *Thanks for visiting — feel free to connect or explore my repositories!*
