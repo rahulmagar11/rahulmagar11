@@ -77,12 +77,6 @@ Focused on **reliability, security, observability, and cost optimization** acros
 
 ## 🎓 Certifications
 
-<p align="center">
-  <img src="https://images.credly.com/images/684d0b96-4a8a-4f34-9c8b-5b7b07d02e1a/aws-certified-solutions-architect-associate.png" width="120"/>
-  <img src="https://images.credly.com/images/8d5b9c4c-3f52-4f68-bb53-00baf20c1a70/certified-kubernetes-administrator.png" width="120"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" width="160"/>
-</p>
-
 - 🏅 AWS Certified Solutions Architect – Associate  
 - 🏅 Certified Kubernetes Administrator (CKA)  
 - 🏅 SAS Platform Administration (Grid & Viya)
@@ -107,16 +101,6 @@ Focused on **reliability, security, observability, and cost optimization** acros
 - Terraform-based architecture  
 - Highly available & fault tolerant  
 - Secure and cost-optimized  
-
----
-
-## 📈 GitHub Stats (Auto Theme)
-
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=rahulmagar11&show_icons=true&theme=tokyonight" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=rahulmagar11&show_icons=true&theme=default" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulmagar11&show_icons=true&theme=default" />
-</picture>
 
 ---
 
