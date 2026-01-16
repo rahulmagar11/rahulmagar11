@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/DevOps.gif" width="450px" alt="DevOps Animation" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/master/DevOps.gif" width="600px" alt="DevOps Pipeline Animation" />
 </div>
 
 ---
@@ -47,14 +47,9 @@ I am a results-driven **DevOps and SAS Platform Engineer** with **9+ years of ex
 
 ---
 
-### 📊 Engineering Metrics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulmagar11&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Rahul's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmagar11&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180px" />
-</div>
-
+### 🚀 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulmagar11&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulmagar11&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117" width="100%" />
 </p>
 
 ---
@@ -75,6 +70,10 @@ I am a results-driven **DevOps and SAS Platform Engineer** with **9+ years of ex
 <a href="https://rahulmagar.co.in"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
 </p>
 
-<div align="right">
-  <img src="https://raw.githubusercontent.com/amrsa1/amrsa1/master/assets/gears.gif" width="100px" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kyechan9ab/kyechan9ab/main/assets/hacker.gif" width="400px" />
 </div>
+
+<p align="right">
+  <img src="https://raw.githubusercontent.com/amrsa1/amrsa1/master/assets/gears.gif" width="80px" />
+</p>
