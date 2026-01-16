@@ -1,127 +1,84 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=750&lines=DevOps+Engineer+%7C+SAS+Platform+Admin;AWS+%7C+Azure+%7C+Kubernetes;Terraform+%7C+Ansible+%7C+CI%2FCD;Building+Resilient+Cloud+Platforms" />
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="DevOps Banner" />
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Rahul Magar</h1>
+<h1 align="center">Hi there, I'm Rahul Magar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="center">DevOps Engineer & SAS Platform Admin</h3>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rahulmagar11.rahulmagar11" />
+  <a href="https://rahulmagar.co.in"><strong>Portfolio Website</strong></a> •
+  <a href="https://linkedin.com/in/rahulmagar11"><strong>LinkedIn</strong></a> •
+  <a href="mailto:rahulmagar11@gmail.com"><strong>Email Me</strong></a>
 </p>
 
 <p align="center">
-  <a href="https://rahulmagar.co.in">
-    <img src="https://img.shields.io/badge/Portfolio-rahulmagar.co.in-success?style=flat-square&logo=google-chrome">
-  </a>
-  <a href="https://linkedin.com/in/rahulmagar11">
-    <img src="https://img.shields.io/badge/LinkedIn-Rahul%20Magar-blue?style=flat-square&logo=linkedin">
-  </a>
-  <a href="mailto:rahulmagar11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rahulmagar11@gmail.com-red?style=flat-square&logo=gmail">
-  </a>
-  <a href="https://github.com/rahulmagar11">
-    <img src="https://img.shields.io/badge/GitHub-rahulmagar11-black?style=flat-square&logo=github">
-  </a>
+  <em>I transform complex business requirements into resilient, automated, and scalable cloud infrastructure. My focus is on driving efficiency and reliability across the SDLC with cutting-edge DevOps and SAS technologies.</em>
 </p>
 
 ---
 
-## 🚀 About Me
+### 👨‍💻 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="280"/>
+I am a results-driven **DevOps Engineer and SAS Platform Engineer** with **9+ years of experience** transforming software delivery through Infrastructure as Code (IaC), Cloud Engineering (AWS, Azure), and CI/CD pipeline automation.
 
-I transform complex business requirements into **resilient, automated, and scalable cloud infrastructure**.  
-Focused on **reliability, security, observability, and cost optimization** across the SDLC using modern **DevOps and SAS platform engineering** practices.
-
-- 💼 DevOps Engineer & SAS Platform Engineer with **9+ years of experience**
-- ☁️ AWS & Azure Cloud Engineering
-- ⚙️ Infrastructure as Code: Terraform & Ansible
-- 📊 SAS Grid & SAS Viya Administration
+* 🔭 **I’m currently working on:** Building resilient, scalable, and cost-optimized infrastructure while administering high-availability SAS Grid and Viya platforms.
+* ☁️ **Cloud Expertise:** AWS (EKS, EC2, S3, Lambda, VPC) & Azure.
+* 🚀 **Core Focus:** Kubernetes (EKS/AKS), Terraform, Ansible, Jenkins, and comprehensive observability stacks.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Skills
 
-### ☁️ Cloud & Platforms
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
-</p>
-
-### ⚓ Containers & Orchestration
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/helm/icon/color/helm-icon-color.svg" width="45"/>
-</p>
-
-### 🧱 Infrastructure as Code & Automation
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="45"/>
-</p>
-
-### 🔁 CI/CD & DevOps
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
-</p>
+| Category | Technologies |
+| :--- | :--- |
+| **Cloud Providers** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) |
+| **Containerization** | ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Helm](https://img.shields.io/badge/HELM-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white) |
+| **IaC & Config** | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) |
+| **CI/CD & GitOps** | ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/azure%20devops-%230078D7.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white) |
+| **SAS Platforms** | SAS Grid, SAS Viya, Platform Administration |
 
 ---
 
-## 🎓 Certifications
+### 💼 Key Competencies
 
-- 🏅 AWS Certified Solutions Architect – Associate  
-- 🏅 Certified Kubernetes Administrator (CKA)  
-- 🏅 SAS Platform Administration (Grid & Viya)
-
----
-
-## 💼 Career Highlights
-
-- Designed and managed **multi-region AWS infrastructure**
-- Implemented **GitOps with Argo CD**
-- Built **secure CI/CD pipelines with scanning**
-- Administered **high-availability SAS platforms**
-- Achieved **significant cloud cost optimization**
+* **Cloud Infrastructure:** Designed and managed robust, cost-optimized infrastructure on AWS using EKS, EC2, S3, Lambda, and VPC.
+* **Orchestration:** Expertise in Kubernetes (EKS/AKS) deployment, Helm charting, and GitOps workflows using ArgoCD.
+* **Infrastructure as Code:** Implemented reproducible infrastructure using Terraform and configuration management with Ansible.
+* **CI/CD Automation:** Built and maintained scalable pipelines using Jenkins, Azure DevOps, and GitHub Actions, incorporating security scanning (DevSecOps).
 
 ---
 
-## 📌 Featured Project
+### 📌 Featured Projects
 
-### 🌍 Multi-Region AWS Infrastructure  
-🔗 https://github.com/rahulmagar11  
+#### Multi-Region AWS Infrastructure (IaC)
+> *Note: Please update the link below to point to the specific repository for this project.*
 
-- Terraform-based architecture  
-- Highly available & fault tolerant  
-- Secure and cost-optimized  
+* **[View Repository](https://github.com/rahulmagar11/YOUR-REPO-NAME-HERE)**
 
----
+A comprehensive Infrastructure as Code (IaC) project demonstrating highly available and fault-tolerant architecture spanning multiple AWS regions.
 
-## 📊 Contribution Activity
-
-<picture>
-  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=rahulmagar11&theme=tokyo-night" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=rahulmagar11&theme=github-light" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulmagar11&theme=github-light" />
-</picture>
+**Key Features:**
+* **Terraform Modules:** Reusable modules for VPC, TGW (Transit Gateway), and EKS provisioning.
+* **Disaster Recovery:** Implemented active-passive strategies using Route53 and cross-region data replication.
+* **Security:** Encrypted S3 backends for state files and least-privilege IAM roles.
 
 ---
 
-## 🤝 Connect With Me
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulmagar11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Rahul's Stats" />
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmagar11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Rahul's Top Languages" />
+</div>
+
+---
+
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500" alt="coding" />
+</div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" />
+  Connect with me on <a href="https://linkedin.com/in/rahulmagar11">LinkedIn</a> or check out my <a href="https://rahulmagar.co.in">Portfolio</a>.
 </p>
-
-- 🌐 Portfolio: https://rahulmagar.co.in  
-- 💼 LinkedIn: https://linkedin.com/in/rahulmagar11  
-- 📧 Email: rahulmagar11@gmail.com  
-
-⭐️ *Thanks for visiting — feel free to connect or explore my repositories!*
