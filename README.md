@@ -45,11 +45,7 @@ Focused on **reliability, security, observability, and cost optimization** acros
 - 🏅 SAS 9 Platform Administration
 
 ---
-
-### 🛠️ Technical Ecosystem
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,ansible,jenkins,githubactions,linux,python,bash,prometheus,grafana,mysql,git" />
-</div>
+## 🛠️ Tech Stack & Tools
 
 ### ☁️ Cloud & Platforms
 <p>
@@ -77,6 +73,12 @@ Focused on **reliability, security, observability, and cost optimization** acros
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
 </p>
+
+### 🛠️ Technical Ecosystem
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,ansible,jenkins,githubactions,linux,python,bash,prometheus,grafana,mysql,git" />
+</div>
+
 ---
 
 ### 🐍 Contribution Activity
