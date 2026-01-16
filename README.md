@@ -10,16 +10,19 @@
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/master/DevOps.gif" width="600px" alt="DevOps Pipeline Animation" />
 </div>
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rahulmagar11.rahulmagar11" />
+</p>
 ---
 
 ### 👨‍💻 Professional Summary
-I am a results-driven **DevOps and SAS Platform Engineer** with **9+ years of experience** transforming software delivery through Infrastructure as Code (IaC), Cloud Engineering, and CI/CD automation.
+I transform complex business requirements into **resilient, automated, and scalable cloud infrastructure**.  
+Focused on **reliability, security, observability, and cost optimization** across the SDLC using modern **DevOps and SAS platform engineering** practices.
 
-* 🔭 **Current Focus:** Scaling SAS Grid and Viya platforms on Kubernetes (EKS/AKS).
-* ☁️ **Cloud Stack:** AWS (EKS, EC2, S3, Lambda, VPC) & Azure.
-* 🛠️ **DevOps Tools:** Terraform, Ansible, Jenkins, ArgoCD, and Helm.
-* 🛡️ **Philosophy:** Building resilient, secure, and cost-optimized "Infrastructure as Code."
-
+- 💼 DevOps Engineer & SAS Platform Engineer with **9+ years of experience**
+- ☁️ AWS & Azure Cloud Engineering
+- ⚙️ Infrastructure as Code: Terraform & Ansible
+- 📊 SAS Grid & SAS Viya Administration
 ---
 
 ## 💼 Career Highlights
@@ -38,6 +41,10 @@ I am a results-driven **DevOps and SAS Platform Engineer** with **9+ years of ex
   <img src="https://img.shields.io/badge/SAS_Platform_Admin-0078D4?style=for-the-badge&logo=sas&logoColor=white" />
 </p>
 
+- 🏅 AWS Certified Solutions Architect – Associate  
+- 🏅 Certified Kubernetes Administrator (CKA)  
+- 🏅 SAS 9 Platform Administration
+
 ---
 
 ### 🛠️ Technical Ecosystem
@@ -47,19 +54,19 @@ I am a results-driven **DevOps and SAS Platform Engineer** with **9+ years of ex
 
 ---
 
-### 🚀 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulmagar11&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117" width="100%" />
-</p>
-
----
-
 ### 🐍 Contribution Activity
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahulmagar11/rahulmagar11/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahulmagar11/rahulmagar11/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rahulmagar11/rahulmagar11/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+### 🚀 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulmagar11&theme=tokyonight&area=true&hide_border=true&bg_color=0D1117" width="100%" />
+</p>
 
 ---
 
@@ -77,3 +84,5 @@ I am a results-driven **DevOps and SAS Platform Engineer** with **9+ years of ex
 <p align="right">
   <img src="https://raw.githubusercontent.com/amrsa1/amrsa1/master/assets/gears.gif" width="80px" />
 </p>
+
+⭐️ *Thanks for visiting — feel free to connect or explore my repositories!*
