@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=DevOps+Engineer;SAS+Platform+Admin;Cloud+Architect;Automation+Specialist" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/DevOps.gif" width="450px" alt="DevOps Animation" />
+</div>
+
 ---
 
 ### 👨‍💻 Professional Summary
@@ -34,9 +38,6 @@ I am a results-driven **DevOps and SAS Platform Engineer** with **9+ years of ex
   <img src="https://img.shields.io/badge/SAS_Platform_Admin-0078D4?style=for-the-badge&logo=sas&logoColor=white" />
 </p>
 
-- 🏅 **AWS Certified Solutions Architect** – Associate  
-- 🏅 **Certified Kubernetes Administrator (CKA)** - 🏅 **SAS 9 Platform Administration**
-
 ---
 
 ### 🛠️ Technical Ecosystem
@@ -48,8 +49,8 @@ I am a results-driven **DevOps and SAS Platform Engineer** with **9+ years of ex
 
 ### 📊 Engineering Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulmagar11&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Rahul's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmagar11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulmagar11&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Rahul's Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmagar11&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180px" />
 </div>
 
 <p align="center">
@@ -74,6 +75,6 @@ I am a results-driven **DevOps and SAS Platform Engineer** with **9+ years of ex
 <a href="https://rahulmagar.co.in"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="300" />
+<div align="right">
+  <img src="https://raw.githubusercontent.com/amrsa1/amrsa1/master/assets/gears.gif" width="100px" />
 </div>
