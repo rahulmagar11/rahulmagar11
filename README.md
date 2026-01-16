@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=DevOps+Engineer+%7C+SAS+Platform+Admin;AWS+%7C+Azure+%7C+Kubernetes;Terraform+%7C+Ansible+%7C+CI%2FCD;Building+Resilient+Cloud+Platforms" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=750&lines=DevOps+Engineer+%7C+SAS+Platform+Admin;AWS+%7C+Azure+%7C+Kubernetes;Terraform+%7C+Ansible+%7C+CI%2FCD;Building+Resilient+Cloud+Platforms" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 <h3 align="center">DevOps Engineer & SAS Platform Admin</h3>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rahulmagar11.rahulmagar11" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rahulmagar11.rahulmagar11" />
 </p>
 
 <p align="center">
@@ -32,14 +32,15 @@
 
 ## 🚀 About Me
 
+<img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="280"/>
+
 I transform complex business requirements into **resilient, automated, and scalable cloud infrastructure**.  
 Focused on **reliability, security, observability, and cost optimization** across the SDLC using modern **DevOps and SAS platform engineering** practices.
 
 - 💼 DevOps Engineer & SAS Platform Engineer with **9+ years of experience**
-- ☁️ Cloud Engineering: **AWS & Azure**
-- ⚙️ Infrastructure as Code: **Terraform, Ansible**
+- ☁️ AWS & Azure Cloud Engineering
+- ⚙️ Infrastructure as Code: Terraform & Ansible
 - 📊 SAS Grid & SAS Viya Administration
-- 🔍 Automation, scalability & platform reliability enthusiast
 
 ---
 
@@ -90,26 +91,26 @@ Focused on **reliability, security, observability, and cost optimization** acros
 
 ## 💼 Career Highlights
 
-- Designed and managed **multi-region AWS infrastructure** for enterprise workloads
-- Implemented **GitOps using Argo CD**, improving deployment reliability
-- Built **secure CI/CD pipelines** with integrated vulnerability scanning
-- Administered **high-availability SAS Grid & Viya platforms**
-- Delivered **cost-optimized cloud solutions** without compromising reliability
+- Designed and managed **multi-region AWS infrastructure**
+- Implemented **GitOps with Argo CD**
+- Built **secure CI/CD pipelines with scanning**
+- Administered **high-availability SAS platforms**
+- Achieved **significant cloud cost optimization**
 
 ---
 
 ## 📌 Featured Project
 
-### 🌍 Multi-Region AWS Infrastructure
+### 🌍 Multi-Region AWS Infrastructure  
 🔗 https://github.com/rahulmagar11  
 
-- Terraform-based multi-region AWS architecture  
-- High availability & fault tolerance  
-- Secure, scalable, and cost-optimized design  
+- Terraform-based architecture  
+- Highly available & fault tolerant  
+- Secure and cost-optimized  
 
 ---
 
-## 📈 GitHub Stats (Auto Dark / Light)
+## 📈 GitHub Stats (Auto Theme)
 
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=rahulmagar11&show_icons=true&theme=tokyonight" media="(prefers-color-scheme: dark)" />
@@ -117,15 +118,9 @@ Focused on **reliability, security, observability, and cost optimization** acros
   <img src="https://github-readme-stats.vercel.app/api?username=rahulmagar11&show_icons=true&theme=default" />
 </picture>
 
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmagar11&layout=compact&theme=tokyonight" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmagar11&layout=compact&theme=default" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmagar11&layout=compact&theme=default" />
-</picture>
-
 ---
 
-## 📊 Contribution Activity Graph
+## 📊 Contribution Activity
 
 <picture>
   <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=rahulmagar11&theme=tokyo-night" media="(prefers-color-scheme: dark)" />
@@ -136,6 +131,10 @@ Focused on **reliability, security, observability, and cost optimization** acros
 ---
 
 ## 🤝 Connect With Me
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" />
+</p>
 
 - 🌐 Portfolio: https://rahulmagar.co.in  
 - 💼 LinkedIn: https://linkedin.com/in/rahulmagar11  
