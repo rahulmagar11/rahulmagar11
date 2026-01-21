@@ -13,6 +13,9 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rahulmagar11.rahulmagar11" />
 </p>
+<p align="center">
+<a href="https://rahulmagar.co.in"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
+</p>
 
 ### 👨‍💻 Professional Summary
 I transform complex business requirements into **resilient, automated, and scalable cloud infrastructure**.  
